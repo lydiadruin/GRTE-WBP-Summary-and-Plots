@@ -1,0 +1,217 @@
+"SurveyYear","Stand_ID","SeedSap_BR_Absent","SeedSap_BR_PresentUnknown","SeedSap_Total"
+2021,"Mount Hunt",5,0,5
+2021,"Static Divide",16,3,19
+2016,"Ortenberger Lake",10,1,11
+2022,"Lake Taminah",32,2,34
+2023,"Lake Taminah",30,2,32
+2024,"Lake Taminah",25,0,25
+2021,"Lake Taminah",32,2,34
+2022,"North Fork Cascade",24,1,25
+2010,"Amphitheater Lake",75,1,76
+2010,"Forellen",104,0,104
+2021,"Holly Lake",15,1,16
+2007,"Forellen",42,0,42
+2007,"Survey Peak",38,7,45
+2008,"Survey Peak",55,5,60
+2010,"Survey Peak",51,7,58
+2013,"Survey Peak",39,6,45
+2007,"Death Canyon Shelf",29,2,31
+2009,"Amphitheater Lake",90,0,90
+2011,"Amphitheater Lake",68,1,69
+2012,"Amphitheater Lake",82,0,82
+2013,"Amphitheater Lake",79,0,79
+2014,"Amphitheater Lake",96,0,96
+2015,"Amphitheater Lake",99,1,100
+2019,"Amphitheater Lake",85,1,86
+2020,"Amphitheater Lake",85,1,86
+2021,"Amphitheater Lake",83,0,83
+2008,"Amphitheater Lake",84,0,84
+2024,"Amphitheater Lake",56,4,60
+2016,"Amphitheater Lake",95,1,96
+2023,"Amphitheater Lake",55,4,59
+2013,"Ortenberger Lake",10,1,11
+2006,"Cascade",2,1,3
+2011,"Stewarts Draw",95,1,96
+2007,"Amphitheater Lake",62,0,62
+2017,"Amphitheater Lake",93,1,94
+2018,"Amphitheater Lake",96,1,97
+2007,"Boundary Lake",35,0,35
+2021,"Boundary Lake",154,0,154
+2009,"Boundary Lake",87,0,87
+2011,"Boundary Lake",119,0,119
+2013,"Boundary Lake",221,0,221
+2016,"Boundary Lake",170,0,170
+2007,"Carr Lake",12,0,12
+2009,"Carr Lake",12,0,12
+2015,"Carr Lake",21,0,21
+2024,"Cascade",1,0,1
+2008,"Cascade",2,0,2
+2010,"Cascade",6,0,6
+2012,"Cascade",77,1,78
+2016,"Cascade",14,2,16
+2008,"Death Canyon Shelf",15,4,19
+2010,"Death Canyon Shelf",18,2,20
+2013,"Death Canyon Shelf",23,1,24
+2016,"Death Canyon Shelf",25,1,26
+2021,"Death Canyon Shelf",31,0,31
+2007,"Delta Lake",37,0,37
+2021,"Delta Lake",50,1,51
+2008,"Delta Lake",38,0,38
+2010,"Delta Lake",48,1,49
+2011,"Delta Lake",59,1,60
+2013,"Delta Lake",51,1,52
+2016,"Delta Lake",35,1,36
+2019,"Delta Lake",42,0,42
+2017,"Forellen",86,0,86
+2021,"Forellen",112,0,112
+2008,"Forellen",65,0,65
+2013,"Forellen",96,0,96
+2015,"Forellen",99,0,99
+2007,"Garnet",21,0,21
+2008,"Garnet",32,0,32
+2007,"Hanging Canyon",54,0,54
+2019,"Hanging Canyon",37,0,37
+2011,"Hanging Canyon",47,0,47
+2013,"Hanging Canyon",44,0,44
+2015,"Hanging Canyon",41,0,41
+2017,"Hanging Canyon",39,0,39
+2010,"Hanging Canyon",52,1,53
+2021,"Hanging Canyon",54,0,54
+2008,"Hanging Canyon",42,1,43
+2007,"Holly Lake",16,0,16
+2008,"Holly Lake",10,0,10
+2010,"Holly Lake",21,0,21
+2012,"Holly Lake",28,0,28
+2013,"Holly Lake",26,0,26
+2015,"Holly Lake",21,0,21
+2017,"Holly Lake",29,0,29
+2019,"Holly Lake",20,0,20
+2007,"Jackson Hole Mountain Resort",47,0,47
+2021,"Jackson Hole Mountain Resort",65,3,68
+2008,"Jackson Hole Mountain Resort",85,1,86
+2010,"Jackson Hole Mountain Resort",55,5,60
+2011,"Jackson Hole Mountain Resort",55,3,58
+2013,"Jackson Hole Mountain Resort",61,2,63
+2016,"Jackson Hole Mountain Resort",61,3,64
+2017,"Jackson Hole Mountain Resort",69,3,72
+2007,"Lake Taminah",36,1,37
+2017,"Lake Taminah",47,1,48
+2019,"Lake Taminah",54,0,54
+2020,"Lake Taminah",69,1,70
+2011,"Lake Taminah",83,6,89
+2012,"Lake Taminah",83,7,90
+2014,"Lake Taminah",54,3,57
+2015,"Lake Taminah",35,1,36
+2016,"Lake Taminah",40,1,41
+2018,"Lake Taminah",52,1,53
+2008,"Lake Taminah",61,0,61
+2009,"Lake Taminah",53,4,57
+2013,"Lake Taminah",55,3,58
+2010,"Lake Taminah",92,11,103
+2007,"Marion Lake",0,1,1
+2008,"Marion Lake",0,1,1
+2010,"Marion Lake",2,0,2
+2013,"Marion Lake",1,0,1
+2007,"Mount Hunt",14,0,14
+2009,"Mount Moran",16,0,16
+2011,"Mount Moran",25,1,26
+2017,"Mount Moran",22,3,25
+2021,"Mount Moran",21,3,24
+2013,"Mount Moran",22,1,23
+2007,"North Fork Cascade",16,2,18
+2017,"North Fork Cascade",31,2,33
+2019,"North Fork Cascade",28,1,29
+2020,"North Fork Cascade",28,1,29
+2021,"North Fork Cascade",24,1,25
+2008,"North Fork Cascade",35,0,35
+2009,"North Fork Cascade",32,1,33
+2010,"North Fork Cascade",32,0,32
+2011,"North Fork Cascade",30,1,31
+2012,"North Fork Cascade",170,1,171
+2013,"North Fork Cascade",41,1,42
+2014,"North Fork Cascade",46,1,47
+2015,"North Fork Cascade",33,1,34
+2016,"North Fork Cascade",31,2,33
+2018,"North Fork Cascade",32,2,34
+2023,"North Fork Cascade",18,1,19
+2024,"North Fork Cascade",20,0,20
+2007,"Ortenberger Lake",7,1,8
+2021,"Ortenberger Lake",4,1,5
+2009,"Ortenberger Lake",31,2,33
+2013,"Paintbrush",0,0,0
+2008,"Paintbrush",1,0,1
+2010,"Paintbrush",1,0,1
+2011,"Paintbrush",0,0,0
+2007,"South Fork Cascade",9,0,9
+2017,"South Fork Cascade",12,0,12
+2019,"South Fork Cascade",12,0,12
+2021,"South Fork Cascade",3,1,4
+2008,"South Fork Cascade",6,3,9
+2010,"South Fork Cascade",6,2,8
+2011,"South Fork Cascade",6,2,8
+2013,"South Fork Cascade",8,0,8
+2015,"South Fork Cascade",4,0,4
+2018,"South Fork Cascade",16,0,16
+2007,"Static Divide",10,1,11
+2024,"Static Divide",18,2,20
+2007,"Stewarts Draw",78,1,79
+2022,"Stewarts Draw",70,2,72
+2015,"Stewarts Draw",50,3,53
+2016,"Stewarts Draw",73,3,76
+2023,"Stewarts Draw",100,4,104
+2024,"Stewarts Draw",61,4,65
+2013,"Stewarts Draw",71,3,74
+2014,"Stewarts Draw",72,3,75
+2018,"Stewarts Draw",85,0,85
+2019,"Stewarts Draw",87,3,90
+2017,"Stewarts Draw",85,0,85
+2020,"Stewarts Draw",84,3,87
+2021,"Stewarts Draw",70,2,72
+2012,"Stewarts Draw",70,3,73
+2017,"Survey Peak",46,2,48
+2015,"Survey Peak",44,3,47
+2021,"Survey Peak",48,3,51
+2007,"Teewinot Apex",5,1,6
+2007,"Upper Death Canyon",4,1,5
+2008,"Upper Death Canyon",3,0,3
+2013,"Upper Death Canyon",1,0,1
+2010,"Upper Death Canyon",3,0,3
+2006,"Mount Moran",16,0,16
+2009,"Stewarts Draw",134,2,136
+2019,"Teewinot Apex",3,1,4
+2008,"Static Divide",132,0,132
+2009,"Static Divide",104,0,104
+2010,"Static Divide",44,0,44
+2008,"Mount Hunt",5,0,5
+2010,"Mount Hunt",6,0,6
+2013,"Mount Hunt",6,0,6
+2016,"Mount Hunt",5,0,5
+2017,"Static Divide",28,0,28
+2022,"Static Divide",16,3,19
+2012,"Static Divide",37,0,37
+2014,"Static Divide",18,0,18
+2015,"Static Divide",11,0,11
+2019,"Static Divide",19,0,19
+2013,"Static Divide",18,0,18
+2018,"Static Divide",34,0,34
+2016,"Static Divide",14,0,14
+2020,"Static Divide",22,0,22
+2011,"Static Divide",50,0,50
+2023,"Static Divide",13,1,14
+2008,"Stewarts Draw",123,0,123
+2021,"Teewinot Apex",10,1,11
+2010,"Teewinot Apex",4,1,5
+2011,"Teewinot Apex",4,1,5
+2013,"Teewinot Apex",4,0,4
+2017,"Teewinot Apex",3,1,4
+2008,"Teewinot Apex",2,2,4
+2015,"Teewinot Apex",5,0,5
+2007,"Teewinot South",14,0,14
+2010,"Teewinot South",29,0,29
+2008,"Teewinot South",22,0,22
+2010,"Twentyfive Short",0,0,0
+2008,"Twentyfive Short",0,0,0
+2022,"Amphitheater Lake",83,0,83
+2011,"Teewinot South",40,0,40
+2010,"Stewarts Draw",112,2,114
+2013,"Twentyfive Short",0,0,0
