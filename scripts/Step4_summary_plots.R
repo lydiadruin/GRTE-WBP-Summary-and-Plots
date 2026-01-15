@@ -450,7 +450,7 @@ grte$MPB_Backfill <- grte$MtnPineBeetle
 grte <- grte %>% fill(MPB_Backfill, .direction = "down")
 with(subset(grte, TreeStatus == "Dead"), table(MPB_Backfill, useNA = "always"))
 
-with(grte, table(MPB_Backfill, Rust_Backfill, useNA = "always"))
+with(subset(grte, TreeStatus == "Dead"), table(MPB_Backfill, Rust_Backfill, useNA = "always"))
 
 # Create "Condition" to describe what tree had when it died:
 grte_condition <- grte %>% mutate(
