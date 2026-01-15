@@ -2,7 +2,7 @@
 
 ## Lydia M. Druin
 
-#### Last Updated: 05/10/25
+#### Last Updated: 01/15/26
 
 ### Purpose:
 
@@ -73,7 +73,7 @@ The pound symbol, #, indicates a "comment"--this is a bit of "code" that is not 
 ### Notes:
 
 1.  This code is designed to generate data summaries regarding the number of trees dying, infected with blister rust, infested with beetles, and/or producing cones. It will also explore the number of newly tagged trees entering monitoring each year/sampling period.
-2.  Contact Laura Jones (laura_jones\@nps.gov) at GRTE or Erin Shanahan ([erin_shanahan\@nps.gov](mailto:erin_shanahan@nps.gov){.email}) at GRYN for WBP-specific questions, Lydia Druin (lydiadruin\@outlook.com) for data- and data management-specific questions, or for monitoring/field related questions, reach out to both Laura Jones and Kristin Legg (kristin_legg\@nps.gov) at GRYN to get in touch with Nancy Bockino.
+2.  Contact Laura Jones (as of 01/15/26, the GRTE branch chief vegetation ecologist, laura_jones\@nps.gov) at GRTE or Erin Shanahan (as of 01/15/26, the GRYN whitebark pine program leader, [erin_shanahan\@nps.gov](mailto:erin_shanahan@nps.gov){.email}) at GRYN for WBP-specific questions, Lydia Druin (lydiadruin\@outlook.com) for data- and data management-specific questions, or for monitoring/field related questions, reach out to both Laura Jones and Kristin Legg (as of 01/15/26, the GRYN program manager kristin_legg\@nps.gov) at GRYN to get in touch with Nancy Bockino.
 3.  Session info, including R/R Studio and package versions is located at the end of each script.
 
 #### Disclaimer:
